@@ -1,10 +1,16 @@
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="100">
 
 # 👋🏻👋🏻Heyyyyyyyy, I’m TX-Leo
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg" />
+</p>
+
+<br>
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
+
 
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
 
@@ -12,6 +18,7 @@
 
 <br>
 <p><em>
+<br>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 I’m a junior student in Tsinghua University,Beijing,China,major in EE and CS;<br>
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50">
@@ -30,7 +37,9 @@ I deveto myself to freedom and my motto is 'I belong to Jesus';<br>
 You can contact me: 📫tx.leo.wz@gmail.com;<br>
 </em></p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" />
+</p>
 
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
 
@@ -61,6 +70,9 @@ C/C++       0  hrs 00 mins       ░░░░░░░░░░░░░░░�
 Matlab      0  hrs 00 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0
 CSS         0  hrs 00 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0 
 ```
+<p align="center">
+  <img src="https://i.imgur.com/8MupZHY.gif" />
+</p>
 
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
 
@@ -78,6 +90,11 @@ reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
 [<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://www.reddit.com/user/__j_e_e_l__)[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/__j_e_e_l__/)[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)[<img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>](https://www.reddit.com/user/__j_e_e_l__)[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeel/)[<img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />](https://www.linkedin.com/in/jeel/)[<img src="https://img.shields.io/badge/Tencent_QQ-EB1923?style=for-the-badge&logo=TencentQQ&logoColor=white" />](https://www.linkedin.com/in/jeel/)
 #### ⭐️My Website
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://www.linkedin.com/in/jeel/)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
+</p>
 
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
 
@@ -236,7 +253,10 @@ reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
   </tbody>
 </table>
 
+<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
+
 ## My Software <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+<br>
 
 <table>
   <tbody>
@@ -279,7 +299,14 @@ reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
   </tbody>
 </table>
 
+<p align="center">
+
+
+
+
 ## My Art Design <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+<br>
+
 <table>
   <tbody>
     <tr valign="top">
@@ -338,8 +365,9 @@ reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
     </tr>
   </tbody>
 </table>
+<p align="center">
 
-<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
+
 
 ## My Hardware Tech Stack<img src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white"/>
 <br>
@@ -403,11 +431,11 @@ reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>STM32CubeMX</strong></span><br><br><br>
-        <img height="100px" src="https://www.st.com/content/dam/devzone-assets/st-stm32cubemx-logo.png">
+        <img height="100px" src="https://wiki.stmicroelectronics.cn/stm32mpu/nsfr_img_auth.php/e/e2/ST16333_Label_STM32CubeMX.png">
       </td>
       <td width="25%" align="center">
         <span><strong>STM32CubeIDE</strong></span><br><br><br>
-        <img height="100px" src="https://www.st.com/content/dam/devzone-assets/st-stm32cubeide-logo.png">
+        <img height="100px" src="https://www.disk91.com/wp-content/uploads/2020/06/stm32-cube-ide.png">
       </td>
       <td width="25%" align="center">
         <span><strong>STM32CubeMonitor</strong></span><br><br><br>
@@ -420,6 +448,9 @@ reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
     </tr>
   </tbody>
 </table>
+
+
+
 
 
 
