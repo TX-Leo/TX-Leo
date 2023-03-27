@@ -6,15 +6,17 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
 
+<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
+
 ## About Me
 
+<br>
 <p><em>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 I’m a junior student in Tsinghua University,Beijing,China,major in EE and CS;<br>
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50">
 My research focuses on computer vision and deep learning and robotics;<br>
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/
-master/resources/bongocat.gif" width="50px"/>
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px"/>
 I'm good at Image Classification, Object Detection and Location, Semantic Segmentation, Video Stablization,Optical Flow Prediction, Robot Visual Grasping;<br>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 I’m currently learning PyTorch and Robotic Grasping; <br>
@@ -30,14 +32,28 @@ You can contact me: 📫tx.leo.wz@gmail.com;<br>
 
 
 
+<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
+
 ## My Github Stats
+<br>
+
 ![TX-Leo's Github Stats](https://github-readme-stats.vercel.app/api/?username=TX-Leo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<br>
 <a href="https://github.com/TX-Leo"><img src="https://img.shields.io/github/followers/TX-Leo"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TX-Leo"/> </p>
 
+<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
+
 ## My Most Used Languages
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TX-Leo&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
+
 ## 📊 My Weekly Development Breakdown
+<br>
+
 <!--START_SECTION:waka-->
 ```text
 Python      40 hrs 00 mins       █████████████████████████   100
@@ -46,7 +62,11 @@ Matlab      0  hrs 00 mins       ░░░░░░░░░░░░░░░�
 CSS         0  hrs 00 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0 
 ```
 
+<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
+
 ## Contact Me !
+<br>
+
 <!--
 reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
 -->
@@ -59,8 +79,11 @@ reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
 #### ⭐️My Website
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://www.linkedin.com/in/jeel/)
 
+<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
 
 ## My Operating System <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<br>
+
 <table>
   <tbody>
     <tr valign="top">
@@ -84,7 +107,11 @@ reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
  </tbody>
 </table>
 
+<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
+
 ## My Programming Languages  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<br>
+
 <table>
   <tbody>
     <tr valign="top">
@@ -126,7 +153,12 @@ reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
   </tbody>
 </table>
 
+<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
+
 ## My Software Tech Stack <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"/>
+
+<br>
+
 <table>
   <tbody>
     <tr valign="top">
@@ -307,7 +339,11 @@ reference : https://github.com/alexandresanlim/Badges4-README.md-Profile
   </tbody>
 </table>
 
+<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
+
 ## My Hardware Tech Stack<img src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white"/>
+<br>
+
 <table>
   <tbody>
     <tr valign="top">
