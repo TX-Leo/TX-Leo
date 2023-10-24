@@ -20,19 +20,19 @@
 <p><em>
 <br>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-I’m a junior student in Tsinghua University,Beijing,China,major in EE and CS;<br>
+I am a fourth-year undergraduate student at Tsinghua University, majoring in EECS and I also work as an intern at Microsoft Research;<br>
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50">
-My research focuses on computer vision and deep learning and robotics;<br>
+Currently, my research interests lie in the fileds of robotics, robot learning, machine learning and robotic manipulation;<br>
 <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px"/>
-I'm good at Image Classification, Object Detection and Location, Semantic Segmentation, Video Stablization,Optical Flow Prediction, Robot Visual Grasping;<br>
+I am actively exploring the application of machine learning techiques and mutimodual large lauguage models(MLLMs) in robotic tasks, particularly in the area of robotic grasping;<br>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-I’m currently learning PyTorch and Robotic Grasping; <br>
+My ultimate goal is to develop intelligent robotic agents capable of performing complex manipulation tasks; <br>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-My hobbies are football, music, rap, running, watching movies,electronic diy;<br>
+My hobbies are football, music, hip-hop, R&B, photography, tennis, films, Apple, frisbee, electronic diy;<br>
 <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=40 height=40> 
-My dream is to be a full stack developer and travel the world;<br>
+My dream is to be a full stack robotic developer and traveling the world;<br>
 <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="40">
-I deveto myself to freedom and my motto is 'I belong to Jesus';<br>
+I have plans to pursue a Ph.D. in Robotics abroad starting in the fall of 2025.;<br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
 You can contact me: 📫tx.leo.wz@gmail.com;<br>
 </em></p>
