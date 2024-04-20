@@ -8,7 +8,7 @@
 -->
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="100">
 
-# 👋🏻👋🏻Heyyyyyyyy, I’m Zhi(Leo) Wang
+# 👋🏻👋🏻Hi, I’m Zhi (Leo) Wang
 <br>
 
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
