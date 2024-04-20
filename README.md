@@ -9,16 +9,7 @@
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="100">
 
 # 👋🏻👋🏻Heyyyyyyyy, I’m Zhi(Leo) Wang
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg" />
-</p> -->
-
-<!-- <br> -->
-
-<!-- <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
-</p> -->
-
+<br>
 
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
 
@@ -38,27 +29,7 @@ Currently, my research interests lie in the intersection of <b style="font-weigh
 </p>
 <p>
 <span style="color: red;">I am actively applying for a Ph.D. position in 2025 Fall!</span>
-<!-- <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-I am a fourth-year undergraduate student at Tsinghua University, majoring in EECS and I also work as an intern at Microsoft Research;<br>
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50">
-Currently, my research interests lie in the fileds of robotics, robot learning, machine learning and robotic manipulation;<br>
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px"/>
-I am actively exploring the application of machine learning techiques and mutimodual large lauguage models(MLLMs) in robotic tasks, particularly in the area of robotic grasping;<br>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
-My ultimate goal is to develop intelligent robotic agents capable of performing complex manipulation tasks; <br>
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-My hobbies are football, music, hip-hop, R&B, photography, tennis, films, Apple, frisbee, electronic diy;<br>
-<img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=40 height=40> 
-My dream is to be a full stack robotic developer and traveling the world;<br>
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="40">
-I have plans to pursue a Ph.D. in Robotics abroad starting in the fall of 2025.;<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
-You can contact me: 📫tx.leo.wz@gmail.com;<br> -->
 </p>
-
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif" />
-</p> -->
 
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
 
