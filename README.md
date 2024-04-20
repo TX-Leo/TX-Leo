@@ -37,5 +37,3 @@ Currently, my research interests lie in the intersection of <b style="font-weigh
 <br>
 <a href="https://github.com/TX-Leo"><img src="https://img.shields.io/github/followers/TX-Leo"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TX-Leo"/> </p>
-
-<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
