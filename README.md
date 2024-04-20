@@ -15,9 +15,6 @@
 
 ## About Me
 
-<br>
-<p>
-<br>
 <p>Hi, there. I'm a senior student at <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, majoring in <a href="https://www.ee.tsinghua.edu.cn/en/">Electronic Engineering</a>.
 </p>
 <p>Currently, I am fortunate to work with <a href="http://robotouch.ri.cmu.edu/yuanwz/">Prof. Wenzhen Yuan</a> as a research assistant at <a href="https://labs.ri.cmu.edu/robotouch/"> RoboTouch Lab</a>, <a href="https://cs.illinois.edu/">UIUC CS</a>.
@@ -42,8 +39,3 @@ Currently, my research interests lie in the intersection of <b style="font-weigh
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TX-Leo"/> </p>
 
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
-
-## My Most Used Languages
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TX-Leo&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
