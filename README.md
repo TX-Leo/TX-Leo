@@ -14,11 +14,10 @@
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
 
 ## About Me
-<br>
 ========
 <br>
 Hi, there !!!.
-
+<br>
 I'm a senior student at <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, majoring in <a href="https://www.ee.tsinghua.edu.cn/en/">Electronic Engineering</a>.
 
 Currently, I am fortunate to work with <a href="http://robotouch.ri.cmu.edu/yuanwz/">Prof. Wenzhen Yuan</a> as a research assistant at <a href="https://labs.ri.cmu.edu/robotouch/"> RoboTouch Lab</a>, <a href="https://cs.illinois.edu/">UIUC CS</a>.
