@@ -14,7 +14,6 @@
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
 
 ## About Me
-========
 <br>
 Hi, there !!!.
 <br>
