@@ -15,17 +15,18 @@
 
 ## About Me
 <br>
-Hi, there !!!.
 
-I'm a senior student at <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, majoring in <a href="https://www.ee.tsinghua.edu.cn/en/">Electronic Engineering</a>.
+Hi, there. I'm Zhi Wang. I go by Leo. I'm a CS PhD Student at [University of Maryland](https://www.tsinghua.edu.cn/en/) in Robotics, advised by [Prof. Yiannis Aloimonos](https://robotics.umd.edu/clark/faculty/350/Yiannis-Aloimonos).
 
-Currently, I am fortunate to work with <a href="http://robotouch.ri.cmu.edu/yuanwz/">Prof. Wenzhen Yuan</a> as a research assistant at <a href="https://labs.ri.cmu.edu/robotouch/"> RoboTouch Lab</a>, <a href="https://cs.illinois.edu/">UIUC CS</a>.
+I received my Bachlor's degree in Electronic Engineering at <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, majoring in <a href="https://www.ee.tsinghua.edu.cn/en/">Electronic Engineering</a>.
 
-Previously, I was honored to be a research intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"> Microsoft Research</a>, advised by <a href="https://www.microsoft.com/en-us/research/people/shaohanh/">Dr. Shaohan Huang</a>.
-  
-My research interests lie in the intersection of <b style="font-weight: bold;"><span style="color: red;">Robotics and AI</span></b>. My ultimate goal is to develop intelligent robotic agents capable of performing complex manipulation tasks.
+Previously, I was fortunate to work with <a href="https://siebelschool.illinois.edu/about/people/faculty/yuanwz">Prof. Wenzhen Yuan</a> as a research assistant at <a href="https://robotouchlab.com/"> RoboTouch Lab</a>, <a href="https://cs.illinois.edu/">UIUC CS</a>.
 
-<span style="color: red;">I am actively applying for a Ph.D. position in 2025 Fall!</span>
+I was honored to be a research intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"> Microsoft Research</a>, advised by <a href="https://www.microsoft.com/en-us/research/people/shaohanh/">Dr. Shaohan Huang</a>.
+
+I also spent time at [the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University,](https://iiis.tsinghua.edu.cn/en/) advised by [Prof. Jianyu Chen](https://people.iiis.tsinghua.edu.cn/~jychen/).
+
+My research interests lie in learning-based manipulation using multimodal sensing, such as vision, haptics, and force. My ultimate goal is to create fine-grained and general-purpose robotic manipulation systems.
 
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
 
