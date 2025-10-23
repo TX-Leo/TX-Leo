@@ -1,14 +1,6 @@
-<!--
- * @Author: TX-Leo
- * @Mail: tx.leo.wz@gmail.com
- * @Date: 2024-04-20 12:23:51
- * @Version: v1
- * @File: 
- * @Brief: 
--->
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="100">
 
-# 👋🏻👋🏻Hi, I’m Zhi (Leo) Wang
+# 👋🏻Hi, I’m Zhi (Leo) Wang
 <br>
 
 <img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
