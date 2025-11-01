@@ -10,22 +10,16 @@
 
 
 
- <p>
             Hi, there. I'm Zhi Wang. I go by Leo. I'm a CS PhD Student in Robotics🤖 at <a href="https://www.tsinghua.edu.cn/en/"><b><span style="color: red;">University of Maryland</span></b></a>, advised by <a href="https://robotics.umd.edu/clark/faculty/350/Yiannis-Aloimonos"><b>Prof. Yiannis Aloimonos</b></a>. I received my Bachlor's degree in <a href="https://www.ee.tsinghua.edu.cn/en/"><b>Electronic Engineering</b></a> at  <a href="https://www.tsinghua.edu.cn/en/"><b><span style="color: red;">Tsinghua University</span></b></a>.
-          </p>
 
-          <p>
+
+   
           I'm going to join <b><span style="color: red;">Amazon FAR (Frontier AI & Robotics)</span></b> as an Applied Scientist Intern in 2026 summer, working with Rocky Duan, Guanya Shi and Pieter Abbeel.
-          </p>
-          
-          <p>
+     
             Previously, I was fortunate to work with <a href="http://robotouch.ri.cmu.edu/yuanwz/"><b>Prof. Wenzhen Yuan</b></a> at <a href="https://cs.illinois.edu/"><b><span style="color: red;">UIUC CS</span></b></a>, <a href="https://www.microsoft.com/en-us/research/people/shaohanh/"><b>Dr. Shaohan Huang</b></a> at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"><b><span style="color: red;">Microsoft Research</span></b></a> and <a href="https://people.iiis.tsinghua.edu.cn/~jychen/"><b>Prof. Jianyu Chen</b></a> at <a href="https://iiis.tsinghua.edu.cn/en/"><b><span style="color: red;">Tsinghua IIIS</span></b></a>.
-          </p>
-         
-          <p>
+     
             <b>Goal</b>: Let robots learn from <u><b>multimodal information</b></u>, like human videos and haptics, to achieve fine-grained and <u><b>general-purpose robotic manipulation</b></u>.
-          </p>
-
+     
           
 ## My Github Stats
 <br> 
