@@ -8,20 +8,25 @@
 ## About Me
 <br>
 
-Hi, there. I'm Zhi Wang. I go by Leo. I'm a CS PhD Student at [University of Maryland](https://www.tsinghua.edu.cn/en/) in Robotics, advised by [Prof. Yiannis Aloimonos](https://robotics.umd.edu/clark/faculty/350/Yiannis-Aloimonos).
 
-I received my Bachlor's degree in Electronic Engineering at <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, majoring in <a href="https://www.ee.tsinghua.edu.cn/en/">Electronic Engineering</a>.
 
-Previously, I was fortunate to work with <a href="https://siebelschool.illinois.edu/about/people/faculty/yuanwz">Prof. Wenzhen Yuan</a> as a research assistant at <a href="https://robotouchlab.com/"> RoboTouch Lab</a>, <a href="https://cs.illinois.edu/">UIUC CS</a>.
+ <p>
+            Hi, there. I'm Zhi Wang. I go by Leo. I'm a CS PhD Student in Robotics🤖 at <a href="https://www.tsinghua.edu.cn/en/"><b><span style="color: red;">University of Maryland</span></b></a>, advised by <a href="https://robotics.umd.edu/clark/faculty/350/Yiannis-Aloimonos"><b>Prof. Yiannis Aloimonos</b></a>. I received my Bachlor's degree in <a href="https://www.ee.tsinghua.edu.cn/en/"><b>Electronic Engineering</b></a> at  <a href="https://www.tsinghua.edu.cn/en/"><b><span style="color: red;">Tsinghua University</span></b></a>.
+          </p>
 
-I was honored to be a research intern at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"> Microsoft Research</a>, advised by <a href="https://www.microsoft.com/en-us/research/people/shaohanh/">Dr. Shaohan Huang</a>.
+          <p>
+          I'm going to join <b><span style="color: red;">Amazon FAR (Frontier AI & Robotics)</span></b> as an Applied Scientist Intern in 2026 summer, working with Rocky Duan, Guanya Shi and Pieter Abbeel.
+          </p>
+          
+          <p>
+            Previously, I was fortunate to work with <a href="http://robotouch.ri.cmu.edu/yuanwz/"><b>Prof. Wenzhen Yuan</b></a> at <a href="https://cs.illinois.edu/"><b><span style="color: red;">UIUC CS</span></b></a>, <a href="https://www.microsoft.com/en-us/research/people/shaohanh/"><b>Dr. Shaohan Huang</b></a> at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/"><b><span style="color: red;">Microsoft Research</span></b></a> and <a href="https://people.iiis.tsinghua.edu.cn/~jychen/"><b>Prof. Jianyu Chen</b></a> at <a href="https://iiis.tsinghua.edu.cn/en/"><b><span style="color: red;">Tsinghua IIIS</span></b></a>.
+          </p>
+         
+          <p>
+            <b>Goal</b>: Let robots learn from <u><b>multimodal information</b></u>, like human videos and haptics, to achieve fine-grained and <u><b>general-purpose robotic manipulation</b></u>.
+          </p>
 
-I also spent time at [the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University,](https://iiis.tsinghua.edu.cn/en/) advised by [Prof. Jianyu Chen](https://people.iiis.tsinghua.edu.cn/~jychen/).
-
-My research interests lie in learning-based manipulation using multimodal sensing, such as vision, haptics, and force. My ultimate goal is to create fine-grained and general-purpose robotic manipulation systems.
-
-<img align='left' src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="80">
-
+          
 ## My Github Stats
 <br> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TX-Leo"/> </p>
